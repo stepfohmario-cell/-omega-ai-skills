@@ -1,0 +1,96 @@
+{
+  "manifest_version": "1.0",
+  "owner": "stepfohmario-cell",
+  "brand": "Omega Hybrid Synergy",
+  "contact": "omegahybridsynergy@gmail.com",
+  "location": "Port Harcourt, Nigeria",
+  "repo": "omega-ai-skills",
+  "monetization": {
+    "status": "pending_stripe",
+    "gateway": "stripe + paystack",
+    "currency": "USD",
+    "free_tier": "10 calls/month"
+  },
+  "skills": [
+    {
+      "id": "football-oracle",
+      "name": "Omega Football Oracle",
+      "description": "Accurate football predictions & odds with AI analysis",
+      "price_per_call": 0.05,
+      "category": "sports",
+      "endpoint": "/v1/skills/football-oracle"
+    },
+    {
+      "id": "jamb-master",
+      "name": "JAMB/WAEC Master",
+      "description": "JAMB, WAEC, NECO past questions + AI tutor for Nigerian students",
+      "price_per_call": 0.03,
+      "category": "education",
+      "endpoint": "/v1/skills/jamb-master"
+    },
+    {
+      "id": "pharma-check",
+      "name": "PharmaCheck NG",
+      "description": "Drug interactions, dosage, NAFDAC verification for Nigeria",
+      "price_per_call": 0.05,
+      "category": "health",
+      "endpoint": "/v1/skills/pharma-check"
+    },
+    {
+      "id": "farm-smart",
+      "name": "FarmSmart NG",
+      "description": "Farming advice, crop disease detection, market prices",
+      "price_per_call": 0.02,
+      "category": "agriculture",
+      "endpoint": "/v1/skills/farm-smart"
+    },
+    {
+      "id": "resume-builder",
+      "name": "Resume & CV Builder",
+      "description": "ATS optimized resume and cover letter builder",
+      "price_per_call": 0.04,
+      "category": "career",
+      "endpoint": "/v1/skills/resume-builder"
+    },
+    {
+      "id": "crypto-analyst",
+      "name": "Crypto & Forex Analyst",
+      "description": "Crypto and Forex signals and market analysis",
+      "price_per_call": 0.05,
+      "category": "finance",
+      "endpoint": "/v1/skills/crypto-analyst"
+    },
+    {
+      "id": "legal-ng",
+      "name": "Legal Assistant NG",
+      "description": "Nigerian law, tenancy, CAC business registration guide",
+      "price_per_call": 0.03,
+      "category": "legal",
+      "endpoint": "/v1/skills/legal-ng"
+    },
+    {
+      "id": "symptom-checker",
+      "name": "Symptom Checker",
+      "description": "AI symptom analysis + hospital referral in Nigeria",
+      "price_per_call": 0.02,
+      "category": "health",
+      "endpoint": "/v1/skills/symptom-checker"
+    },
+    {
+      "id": "market-price",
+      "name": "Market Price NG",
+      "description": "Real-time food prices across Nigerian markets",
+      "price_per_call": 0.01,
+      "category": "market",
+      "endpoint": "/v1/skills/market-price"
+    },
+    {
+      "id": "research-assistant",
+      "name": "Research Assistant",
+      "description": "Academic research, citations, paper writing help",
+      "price_per_call": 0.04,
+      "category": "education",
+      "endpoint": "/v1/skills/research-assistant"
+    }
+  ]
+}
