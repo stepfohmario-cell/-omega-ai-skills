@@ -1,44 +1,35 @@
 # 🔥 omega-ai-skills
-### 10 AI Skills by Omega Hybrid Synergy
 
-**AI Agents pay to use these skills — Real money, Real API**
+## 💳 BUY API ACCESS - ₦1,500
+**👉 Pay here to get instant access to all 7 AI Skills (1000 calls):**
+**https://paystack.shop/pay/7b1vfquuj1**
+After payment, email stepfohmario@gmail.com with proof to receive your API Key!
 
 ---
+**10 AI Skills by Omega Hybrid Synergy** — Nigeria's first AI Skills Marketplace
+> AI Agents pay to use these skills — Real money, Real API
 
-## 🚀 What is this?
+### 🚀 What is this?
+Nigeria's first AI Skills Marketplace — 7 powerful skills built by Omega Hybrid Synergy that any AI agent, chatbot, or app can call via API.
 
-This is Nigeria's first AI Skills Marketplace — 10 powerful skills built by Omega Hybrid Synergy that any AI agent, chatbot, or app can call via API.
+Football predictions, JAMB & WAEC prep, Pharmacy checker, Farming advisor, Resume builder, Crypto analysis, Legal, Health, Market prices — all in one place.
 
-> Football predictions, JAMB & WAEC prep, Pharmacy checker, Farming advisor, Resume builder, Crypto analysis, Legal, Health, Market prices — all in one place.
-
-**Owner:** Omega Hybrid Synergy | stepfohmario-cell  
-**Contact:** omegahybridsynergy@gmail.com  
+**Owner:** SM DIGITAL HUB / Omega Hybrid Synergy 
+**Contact:** stepfohmario@gmail.com
+**Pay:** https://paystack.shop/pay/7b1vfquuj1
 **Location:** Port Harcourt, Rivers State, Nigeria
 
----
+### 🧠 The 7 Skills (Live Now)
+| # | Skill Name | What it does |
+|---|---|---|
+| 1 | Football Oracle | Accurate football predictions & odds |
+| 2 | JAMB/WAEC Master | JAMB, WAEC questions + AI tutor |
+| 3 | PharmaCheck NG | Drug interactions, dosage |
+| 4 | CAC Business Checker | Verify business name with CAC |
+| 5 | Naira Forex Oracle | Dollar, Euro, Pounds real-time |
+| 6 | Pidgin Translator | English ↔ Pidgin |
+| 7 | WAEC Master | NECO past questions, AI tutor |
 
-## 🧠 The 10 Skills
-
-| # | Skill Name | What it does | Price |
-|---|------------|--------------|-------|
-| 1 | ⚽ Omega Football Oracle | Accurate football predictions & odds | $0.05 / call |
-| 2 | 📚 JAMB/WAEC Master | JAMB, WAEC, NECO past questions + AI tutor | $0.03 / call |
-| 3 | 💊 PharmaCheck NG | Drug interactions, dosage, NAFDAC verify | $0.05 / call |
-| 4 | 🌾 FarmSmart NG | Farming advice, crop disease, market prices | $0.02 / call |
-| 5 | 📄 Resume & CV Builder | ATS resume, cover letter | $0.04 / call |
-| 6 | ₿ Crypto & Forex Analyst | Crypto/Forex signals | $0.05 / call |
-| 7 | ⚖️ Legal Assistant NG | Nigerian law, tenancy, CAC | $0.03 / call |
-| 8 | 🏥 Symptom Checker | AI symptom analysis + hospital referral | $0.02 / call |
-| 9 | 🛒 Market Price NG | Real-time food prices across Nigeria | $0.01 / call |
-| 10 | 🎓 Research Assistant | Academic research, citations | $0.04 / call |
-
----
-
-## 🔌 How AI Agents Use It
-
-```json
-POST https://api.omega-hybrid.com/v1/skills/football-oracle
-{
-  "skill": "football-oracle",
-  "input": "Man City vs Arsenal prediction"
-}
+### How AI Agents Use It
+Price: ₦1,500 for 1000 calls (via Paystack)
+Link: https://paystack.shop/pay/7b1vfquuj1
